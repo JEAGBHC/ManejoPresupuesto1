@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ManejoPresupuesto",
+    "\\ManejoPresupuesto\\Controllers",
+    "\\ManejoPresupuesto\\Models",
+    "\\ManejoPresupuesto\\Views",
+    "\\ManejoPresupuesto\\Views\\Shared"
+  ],
+  "SelectedNode": "\\ManejoPresupuesto\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
